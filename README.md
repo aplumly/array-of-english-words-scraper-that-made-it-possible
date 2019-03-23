@@ -4,3 +4,5 @@
 i left the scraper in the repo incase anyone wants to make use of it.
 
 you could add some code to grab definitions aswell...
+
+special thanks to www.oxfordlearnersdictionaries.com
